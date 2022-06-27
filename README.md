@@ -16,7 +16,7 @@
     <br />
     <br />
     <p align = "center">
-    Cyber Security Enthusiast | Networking | Python | Social Engieering | Keen intrest Digital Forensics|
+    Cyber Security Enthusiast | Networking | Python | Social Engieering | Keen interest Digital Forensics|
     <br>
     </p>
     
@@ -27,7 +27,13 @@
     canoized about reveser engneering stuff  
   # <a align = "center">
 ## Lagnuages : 
-  
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
   </samp>
    
 </p> 
